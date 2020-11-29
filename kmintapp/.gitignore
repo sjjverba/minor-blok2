@@ -1,0 +1,8 @@
+.DS_Store
+.clangd/
+.direnv/
+.idea
+*.log
+tmp/
+build/
+~*
